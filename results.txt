@@ -1,0 +1,3 @@
+tc_Airport_ce | Precision:10.81| Precisions AUC:3.44| IOU:12.57
+tc_Baby_ce | Precision:96.62| Precisions AUC:38.98| IOU:62.22
+tc_Badminton_ce1 | Precision:32.12| Precisions AUC:13.52| IOU:23.51
